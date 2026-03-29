@@ -5,7 +5,7 @@ driver=webdriver.Firefox()
 
 # driver.get("https://www.saucedemo.com/")
  
-username="standard_user"
+username="standard_user" 
 password="secret_sauce"
 login_url="https://www.saucedemo.com/"
 
